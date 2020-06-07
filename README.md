@@ -20,7 +20,7 @@ The Singolo landing page was created using **HTML, CSS, JS**
 **Get a quote**
 1. The user must enter the required data when filling out the form. Submitting the form will not perform the default submit action. Instead, a modal window appears on the top of the layout with information from the form.
 
-**To run the project, you need to**
+**To run the project you need to**
 1. Clone the repository
 2. Go to folder singolo
 3. Run index.html file
